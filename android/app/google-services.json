@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "83648667291",
+    "project_id": "fastandfuel",
+    "storage_bucket": "fastandfuel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83648667291:android:4ab18b9dd09701ee7b703e",
+        "android_client_info": {
+          "package_name": "com.mycompany.asfastandfuel2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83648667291-d6pgvvgnievc24lkdbn88cvhbqak3tmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.asfastandfuel2",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "83648667291-hjjcs0uttcc714rhlc3ukuvf86eda4d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyQXMa2ilyn2Z4lKWVR7NEwmj8Y5GDln8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83648667291-hjjcs0uttcc714rhlc3ukuvf86eda4d0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "83648667291-q1ds45jcf9nqfnrp4gd8krtf7lb0a88h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.asfastandfuel2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
