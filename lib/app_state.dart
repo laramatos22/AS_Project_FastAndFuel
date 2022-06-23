@@ -23,7 +23,7 @@ class FFAppState {
 
   double total = 0.0;
 
-  double _valor = 0.0;
+  double _valor = 2.13;
   double get valor => _valor;
   set valor(double _value) {
     _valor = _value;

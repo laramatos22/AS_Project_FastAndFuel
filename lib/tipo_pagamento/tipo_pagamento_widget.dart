@@ -91,6 +91,8 @@ class _TipoPagamentoWidgetState extends State<TipoPagamentoWidget> {
                             MaterialPageRoute(
                               builder: (context) => TotalCheckoutWidget(
                                 quantidade: 0.0,
+                                combustivel: '',
+                                valor: 0.0,
                               ),
                             ),
                           );
@@ -179,6 +181,8 @@ class _TipoPagamentoWidgetState extends State<TipoPagamentoWidget> {
                             MaterialPageRoute(
                               builder: (context) => TotalCheckoutWidget(
                                 quantidade: 0.0,
+                                combustivel: '',
+                                valor: 0.0,
                               ),
                             ),
                           );
@@ -267,6 +271,8 @@ class _TipoPagamentoWidgetState extends State<TipoPagamentoWidget> {
                             MaterialPageRoute(
                               builder: (context) => TotalCheckoutWidget(
                                 quantidade: 0.0,
+                                combustivel: '',
+                                valor: 0.0,
                               ),
                             ),
                           );
@@ -355,6 +361,8 @@ class _TipoPagamentoWidgetState extends State<TipoPagamentoWidget> {
                             MaterialPageRoute(
                               builder: (context) => TotalCheckoutWidget(
                                 quantidade: 0.0,
+                                combustivel: '',
+                                valor: 0.0,
                               ),
                             ),
                           );

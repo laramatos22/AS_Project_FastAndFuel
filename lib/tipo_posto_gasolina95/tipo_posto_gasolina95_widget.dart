@@ -168,10 +168,7 @@ class _TipoPostoGasolina95WidgetState extends State<TipoPostoGasolina95Widget> {
                                       padding: EdgeInsetsDirectional.fromSTEB(
                                           0, 12, 4, 8),
                                       child: Text(
-                                        valueOrDefault<String>(
-                                          FFAppState().valor.toString(),
-                                          '1.973€',
-                                        ),
+                                        FFAppState().valor.toString(),
                                         textAlign: TextAlign.end,
                                         style: FlutterFlowTheme.of(context)
                                             .bodyText1,

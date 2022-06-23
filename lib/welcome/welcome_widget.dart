@@ -23,6 +23,7 @@ class _WelcomeWidgetState extends State<WelcomeWidget>
       trigger: AnimationTrigger.onPageLoad,
       duration: 1000,
       delay: 1,
+      hideBeforeAnimating: false,
       fadeIn: true,
       initialState: AnimationState(
         offset: Offset(0, 0),
@@ -40,6 +41,7 @@ class _WelcomeWidgetState extends State<WelcomeWidget>
       trigger: AnimationTrigger.onPageLoad,
       duration: 1000,
       delay: 1,
+      hideBeforeAnimating: false,
       fadeIn: true,
       initialState: AnimationState(
         offset: Offset(0, 0),
@@ -57,6 +59,7 @@ class _WelcomeWidgetState extends State<WelcomeWidget>
       trigger: AnimationTrigger.onPageLoad,
       duration: 1000,
       delay: 1,
+      hideBeforeAnimating: false,
       fadeIn: true,
       initialState: AnimationState(
         offset: Offset(0, 0),
